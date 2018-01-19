@@ -3,3 +3,6 @@ J'ai regardé sur internet comment pouvoir controler l'altitude d'un zeppelin, q
 
 12.01.2018
 Nous avons fait la demande nécessaire sur un site espagnol pour être les heureux acquisiteurs d'un zeppelin. En l'absence de notre zeppelin Polytech chéri nous avons décidé d'essayer de faire fonctionner un moteur vibrant ERMs. Nous avons trouvé sur internet les programme et circuit mais le moteur ne vibre pas. La cause est peut etre le fait que le code et schéma trouvés étaient pour un moteur Pancake Vibration. En attente de réponse du site espagnol. 
+
+19.01.2018
+Nous avons demandés au site espagnol quel poids fait le zeppelin, quel est le type de moteurs utilisés. Nous avons commencé la préparation de la présentation intermédiaire et à réaliser le planning.
