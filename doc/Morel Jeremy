@@ -1,7 +1,6 @@
 # Morel-Jeremy 
 
 Seance 1, 21/12/2017 :
-
 On a fait une sorte de brain storming sur les technologies embarquées sur le zeppelin comme des caméras ou des détecteurs quelconques. On a fait une sorte de débroussaillage du projet. Zeppelin télécommandé.
 J'ai regardé le fonctionnement des zeppelins :
 Des problèmes sur la température et la différence de pression pourraient apparaître mais on ne pense pas le faire voler très haut donc nous allons negliger ces potentiels problèmes. De plus on ne pourra pas transporté plus de 200 300 grammes.
@@ -9,5 +8,10 @@ J'ai créé l'organisation sur github.
 On a finit avec des prévisions pour la séance prochaine.
 
 Seance 2, 12/O1/2018 :
+Je n'ai pas pu venir suite à un problème de batterie mais j'ai contnué les recherches de mon côté. Je me uis renseigné sur les problèmes phisiques qui font qu'un dirigeable vole : poussée d'archimède, vents, stabilisation ...
 
-Je n'ai pas pu venir suite à un problème de batterie mais j'ai contnué les recherches de mon côté. Je me uis renseigné sur les problèmes phiques qui font qu'un dirigeable vole : poussée d'archimède, vents, stabilisation ...
+Seance 3, 19/01/2018 :
+Nous avons demandés au site espagnol quel poids fait le zeppelin, le type de moteur utilisé, et le lest. Nous avons aussi réfléchi sur un planning. Sans le dirigeable nous sommes un peu bloqués sur l'avancé du projet.
+ 
+Seance 4, 23/01/2018 :
+On a fait la présentation et on cherche des pistes pour réduire le poids de l'électronique embarqué.
