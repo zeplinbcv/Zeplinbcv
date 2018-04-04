@@ -8,10 +8,25 @@ J'ai créé l'organisation sur github.
 On a finit avec des prévisions pour la séance prochaine.
 
 Seance 2, 12/O1/2018 :
-Je n'ai pas pu venir suite à un problème de batterie mais j'ai contnué les recherches de mon côté. Je me uis renseigné sur les problèmes phisiques qui font qu'un dirigeable vole : poussée d'archimède, vents, stabilisation ...
+Je n'ai pas pu venir suite à un problème de batterie mais j'ai contnué les recherches de mon côté. Je mes uis renseigné sur les problèmes physiques qui font qu'un dirigeable vole : poussée d'archimède, vents, stabilisation ...
 
 Seance 3, 19/01/2018 :
 Nous avons demandés au site espagnol quel poids fait le zeppelin, le type de moteur utilisé, et le lest. Nous avons aussi réfléchi sur un planning. Sans le dirigeable nous sommes un peu bloqués sur l'avancé du projet.
  
 Seance 4, 23/01/2018 :
 On a fait la présentation et on cherche des pistes pour réduire le poids de l'électronique embarqué.
+
+Seance 5, 06/02/2018 :
+On attend le matériel.
+
+Seance 6, 22/02/2018 :
+On attend le matériel.
+
+Seance 7, 15/03/2018 :
+Le matériel est arrivé. Nous l'avons testé et étudié. Il y a des problèmes au niveau du calibrage (les hélices s'activent quand on éteind la télécommande). De plus on étudie chaque composant pour savoir si on peut les remplacer par d'autres plus légers.
+
+Seance 8, 22/03/2018 :
+J'ai essayé de faire communiquer les modules RF 315/433 MHZ TRANSMITTER-RECEIVER avec la bibliothèque virtualWire.
+
+Seance 9, 29/03/2018 :
+Nous avons démonté la manette pour voir comment elle marche pour remplacer la carte par notre arduino et tout recalibrer.
