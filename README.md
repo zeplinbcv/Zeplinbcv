@@ -6,8 +6,7 @@ Ce projet est créé dans le cadre de la formation de prépa intégrée de Polyt
 
 # Zeppelin
 
-
-![zeppelin](Documents/Exposés/Arduino/photo.jpg "photo Zeppelin")
+![zeppelin](https://pbs.twimg.com/profile_images/524828786898919424/IiCmrLb0_400x400.png "logo publi zeppelines")
 
 # Descritpion du projet
 Notre projet est de réaliser un zeppelin télécommandé.
