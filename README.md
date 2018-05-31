@@ -14,8 +14,4 @@ Un transmetteur est branché à la carte arduino de la télécommande et un réc
 L’arduino de la nacelle transmet les tensions correspondantes aux trois moteurs dirigeant le zeppelin.
 
 # Materiel utilisé
-Un ballon gonflable
-3 moteurs
-Une télécommande
-2 modules RF: un transmetteur et un récepteur
-2 cartes arduino nano
+Nous utilisons un ballon gonflable, 3 moteurs, une télécommande, 2 modules RF: un transmetteur et un récepteur et finalement 2 cartes arduino nano
