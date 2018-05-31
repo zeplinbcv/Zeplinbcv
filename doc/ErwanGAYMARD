@@ -12,3 +12,26 @@ Test de fonctionnement de petits moteurs vibrateurs pour imiter les petits moteu
 Séance 3 : 19/01/2018
 Questions supplémentaires posées aux vendeurs de zeppelin espagnol
 Préparation du diaporama de présentation.
+
+Séance 4 : 23/01/2018
+Premiers test avec virtual wire pour communiquer entre 2 arduinos
+
+Séance 5 : 06/02/2018
+Premier succés avec VirtualWire : on peut indiquer si un bouton est appuyer et la valeur de potentiomètre
+
+Séance 6 : 22/02/2018
+Tentative de gérer l'éclairage de LEDs avec Virtual Wire : problème rencontré avec le PWM
+
+Séance 7 : 15/03/2018
+Réception du Zeppelin : test de la télécommande
+
+Séance 8 : 27/03/2018
+Résolution partielle du problème avec PMW : moins de bugs mais parfois, la carte freeze.
+Branchement de la carte de télécommande avec la manette
+
+Séance 9 : 04/04/2018
+Tests conversion des valeurs des potentiomètres en valeurs pour le PWM
+
+
+Séance 12 : 07/05/2018
+Rédaction du compte rendu final.
