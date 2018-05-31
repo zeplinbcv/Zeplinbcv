@@ -30,7 +30,11 @@ On a démonté la télécommande, elle est composée de 4 potentiomètres. Nous 
 Nous avons réalisé deux circuits communiquants par ondes radios grâce à deux modules RF. En bougeant un stick de la télécommande, on allumait les leds du circuit où se trouve le récepteur.
 
 17.04.2018
-Nous avons commencé à réfléchir à quel circuit mettre dans la nacelle. L'arduino sera alimentée par la pile de 3V, et directement branchée aux moteurs et au module RF récepteur.
+Nous avons commencé à réfléchir à quel circuit mettre dans la nacelle. L'arduino sera alimentée par la pile de 3V, et directement branchée aux moteurs et au module RF récepteur. Il faut utiliser une diode de retour pour chaque moteur pour éviter de griller la carte.
 
 2.05.2018
+Des problèmes persistent dans la communication des deux arduinos. Celle-ci réussit ou échoue aléatoirement sans que le programme ou le montage n'ait été touché. La séance entière a été passée à re-faire parler ces deux cartes et bien que j'ai réussi ce n'est pas du tout un avancement sachant qu'elles communiquaient la dernière séance.
+
 7.05.2018
+Rédaction du rapport final.
+On pense à utiliser les moteurs de façon digital et non pas analog pour limiter les problèmes de communication. Si on opte pour ce choix il faudra revoir les fonctions qui associent les valeurs des potentiomètres et celles des moteurs.
